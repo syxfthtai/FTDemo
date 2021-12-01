@@ -11,11 +11,11 @@
       "belongsTo": "Post"
     }
   },
-  "ApplicationStatus": {
+  "Person": {
     "isApproved": { "boolean": {} }
   },
   
-  "CurrentCredit": {
+  "City": {
     "credit": { "int": { "min": 500, "max": 100000 } }
    }
 
