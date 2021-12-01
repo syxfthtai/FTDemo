@@ -12,11 +12,16 @@
     }
   },
   "Person": {
-    "isApproved": { "boolean": {} }
+    "isApproved": { "boolean": {} },
+    "hasMany": "Model",
+    "belongsTo": "Model"
   },
   
   "City": {
     "credit": { "int": { "min": 500, "max": 100000 } }
    }
 
+ 
+  
+ 
 }
