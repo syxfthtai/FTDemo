@@ -10,5 +10,13 @@
     "post": {
       "belongsTo": "Post"
     }
-  }
+  },
+  "ApplicationStatus": {
+    "isApproved": { "boolean": {} }
+  },
+  
+  "CurrentCredit": {
+    "credit": { "int": { "min": 500, "max": 100000 } }
+   }
+
 }
