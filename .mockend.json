@@ -2,7 +2,7 @@
 
   "Person": {
     "isApproved": { "boolean": {} }
-  }
+  },
   "CreditLimit": {
     "int": [
       500,
