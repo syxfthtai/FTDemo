@@ -1,13 +1,6 @@
 {
+
   "Person": {
     "isApproved": { "boolean": {} }
-  },
-  
-  "Post": {
-    "credit": { "int": { "min": 500, "max": 100000 } }
-   }
-
- 
-  
- 
+  }
 }
