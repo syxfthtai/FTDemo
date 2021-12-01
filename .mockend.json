@@ -1,6 +1,6 @@
 {
   "Person": {
-    "isApproved": { "boolean": {} },
+    "isApproved": { "boolean": {} }
   },
   
   "Post": {
